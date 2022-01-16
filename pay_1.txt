@@ -3,3 +3,5 @@ QA_Check_tests
 Autotests_Check
 fasfasf
 asdf456
+Vadim_Developer_tasks
+Andrey_Developer_tasks
